@@ -1,0 +1,15 @@
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity.csprojAssemblyReference.cache
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\MainWindow.g.cs
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\App.g.cs
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity_MarkupCompile.cache
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity_MarkupCompile.lref
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\bin\Debug\TasksActivity.exe.config
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\bin\Debug\TasksActivity.exe
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\bin\Debug\TasksActivity.pdb
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\MainWindow.baml
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity.g.resources
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity.Properties.Resources.resources
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity.csproj.GenerateResource.cache
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity.csproj.CoreCompileInputs.cache
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity.exe
+C:\Users\win_10\source\repos\TasksActivity\TasksActivity\obj\Debug\TasksActivity.pdb
